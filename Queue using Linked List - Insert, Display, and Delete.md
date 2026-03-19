@@ -57,4 +57,4 @@ print(queue)
 <img width="734" height="220" alt="image" src="https://github.com/user-attachments/assets/3415a063-a9f2-43da-99e5-649e8ed43706" />
 
 ## Result
-The program is excuted and verified.
+The program is excuted and verified successful.
